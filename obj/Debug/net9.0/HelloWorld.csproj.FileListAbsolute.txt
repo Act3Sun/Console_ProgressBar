@@ -12,3 +12,4 @@ C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.
 C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
 C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
 C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
