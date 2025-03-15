@@ -1,0 +1,14 @@
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\hryo1\OneDrive\ドキュメント\Repository\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
